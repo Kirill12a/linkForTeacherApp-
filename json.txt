@@ -1,0 +1,285 @@
+[
+  {
+    "TacherName":"​Азовцева В.В",
+    "SchoolSubject": "Русский язык, Литература",
+    "Image":"https://user-images.githubusercontent.com/45273279/162627361-a9fd14fb-c0cf-4285-9a9c-9f5ee099ab32.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"​Акопов В.Ф",
+    "SchoolSubject": "Математика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162627591-ff714132-28c8-48ce-841a-515730e264e1.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+   "TacherName":"​Аксенова Т.Г",
+    "SchoolSubject": "Разработка ПО",
+    "Image":"https://user-images.githubusercontent.com/45273279/162627699-7b77a83e-9ad1-4a63-b83b-804100b59bd5.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"​Альшакова Е.Л",
+    "SchoolSubject": "ТСИ, СП, ИиКГ",
+    "Image":"https://user-images.githubusercontent.com/45273279/162627767-b8b1833d-9cd2-4ae2-a53e-341171788388.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Белоглазов А.И",
+    "SchoolSubject": "Математика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162627806-e7096694-cbc5-4765-92b5-1e23462dfaef.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Василенков П.С",
+    "SchoolSubject": "Физра",
+    "Image":"https://user-images.githubusercontent.com/45273279/162627856-8b4f72c1-1df0-4eaf-9876-ea9083460383.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Веселов Е.А",
+    "SchoolSubject": "Физра",
+    "Image":"https://user-images.githubusercontent.com/45273279/162627882-abed67c0-c07b-4708-9fda-7e0f8a9a2a9c.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"​Володин С.М",
+    "SchoolSubject": "ОС, Электроника",
+    "Image":"https://user-images.githubusercontent.com/45273279/162627941-2c5566ba-e4d9-40b2-a605-c711d598facf.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Горбунов В.А",
+    "SchoolSubject": "Физра",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628034-7d6a4676-7d54-44d8-b773-d02105537afb.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+ {
+    "TacherName":"Дёшина Л.А",
+    "SchoolSubject": "Английский",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628034-7d6a4676-7d54-44d8-b773-d02105537afb.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Докторов А.А",
+    "SchoolSubject": "Физика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628108-fe4b42b5-854e-40e8-848e-dc43ff8f5058.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Доморацкий Е.П",
+    "SchoolSubject": "Архитектура КС",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628034-7d6a4676-7d54-44d8-b773-d02105537afb.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Записной Д.В",
+    "SchoolSubject": "Английский",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628190-569107d8-8ad2-4ed1-92ba-3d59bffaae76.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Зорина О.А",
+    "SchoolSubject": "Математика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628284-620b8998-5569-42b7-bc6d-6fa13e291c82.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Калыгин Е.В",
+    "SchoolSubject": "Руководство ВКР",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628034-7d6a4676-7d54-44d8-b773-d02105537afb.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Киреева Г.И",
+    "SchoolSubject": "Программирование",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628396-6848cdc7-65b3-4314-a513-7850c973bc56.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Князева К.М",
+    "SchoolSubject": "Английский",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628422-3a559848-e604-4a7d-8e54-db55596c7793.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Козлобаев А.А",
+    "SchoolSubject": "Руководство ВКР",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628467-09dad9d0-0bb0-492a-b26c-d5b3e38587a7.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Командирова А.В",
+    "SchoolSubject": "Химия",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628490-4c6f59e9-2fdf-4b40-a9c4-ffc9a23f1d2b.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Костиков П.А",
+    "SchoolSubject": "ОПР, ТБлок-чейн",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628656-5e4a6f12-aab2-45a8-9503-d25508fa49d7.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Лебедева Ю.В",
+    "SchoolSubject": "Английский",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628675-d96c5336-9df2-4438-97e6-7f99db3d60e0.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Леглер А.О",
+    "SchoolSubject": "Математика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628702-af8036f2-c2bf-4f28-a32e-4357ae5fca92.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Лоскутова А.В",
+    "SchoolSubject": "Русский язык, Литература",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628742-bd732303-0469-47e0-b890-3489027fe485.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Метелкина Ю.С",
+    "SchoolSubject": "История",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628800-dd35bb80-618f-4ab1-8a73-d762ee668514.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Митюшин Д.А",
+    "SchoolSubject": "Руководство ВКР",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628034-7d6a4676-7d54-44d8-b773-d02105537afb.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Морозова М.В",
+    "SchoolSubject": "ИсрПО, БД",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628893-13a52114-0530-4148-a5b3-0768234c352c.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Нинкин К.Ю",
+    "SchoolSubject": "Основы программирования",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628948-5f58090c-8571-48bc-895b-f44b548ac329.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Ожигова Н.И",
+    "SchoolSubject": "Информатика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628990-4eab177d-a4de-4cb9-8b34-10af20284e2c.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Окунева В.С",
+    "SchoolSubject": "Физика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629023-dd4d953f-ea74-457d-91f7-50c3744dd1a3.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Палилов С.Ф",
+    "SchoolSubject": "ОБЖ",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629062-699549b1-3521-4950-aee0-54786fa1451e.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Перхункова Е.Д",
+    "SchoolSubject": "Прикладное программирование",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628034-7d6a4676-7d54-44d8-b773-d02105537afb.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Пестов А.И",
+    "SchoolSubject": "ПоКС, Сайтостроение",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629183-7983482d-263f-4a44-a7d3-cde655441524.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },
+  {
+    "TacherName":"Пименов Ю.В",
+    "SchoolSubject": "История",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629217-3f697338-10ce-43e0-bca4-5be20106a3fd.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Поколодина Е.В",
+    "SchoolSubject": "Основы инфо.без",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629268-a8d307a0-3003-457a-aa8a-02003be8f98c.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Попов Е.С",
+    "SchoolSubject": "Английский",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629294-3c5048fb-3e9c-4276-8ef3-ef3181e7e342.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Потапова О.А",
+    "SchoolSubject": "Основы экономики",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629319-dc2f8eb0-1d7c-4f1c-8982-9fbaeac0a1b2.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Разин А.Л",
+    "SchoolSubject": "Экономические основы",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629351-fa53a5fd-c508-4ed6-a343-9c7565dc47c7.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Рой А.В",
+    "SchoolSubject": "ЭПБАС, КСиМЗИ",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629396-befc100f-2df3-4ff8-86f8-5085df14e098.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Семенихина А.В",
+    "SchoolSubject": "Математика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629418-9e4c26fa-d6ab-4b83-863a-76d899eaadee.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Сибирев И.В",
+    "SchoolSubject": "Основы программирования",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629459-2aff105c-0e87-4857-907b-56cbb135bafd.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Титов Н.Г",
+    "SchoolSubject": "Прикладное программирования",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629506-551b53aa-538e-4a39-9d9f-200c9ce2fb4d.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Трусов Н.А",
+    "SchoolSubject": "Основы философии",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629553-9a2e7f1c-54c0-4062-8177-012c03601ee0.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Тюрина К.А",
+    "SchoolSubject": "Информатика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629585-fad0f2c1-a28a-41b1-952c-c36125be4698.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Филатов А.П",
+    "SchoolSubject": "ТСИ, ИТСЗИ",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629629-5d630d62-58d6-4625-bf33-08ade0ab1bf2.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Хизреева С.С",
+    "SchoolSubject": "История",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629651-f0957bc1-004d-4361-b756-b5b0baf97187.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Чеботарева Ю.А",
+    "SchoolSubject": "Информатика",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629684-31523a72-f8f1-4f2f-bda9-f852c6aeafad.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"​Шведов В.А",
+    "SchoolSubject": "История",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629724-c430f5e9-e7a7-4b71-828b-da1e923832a8.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Шубцов Ю.А",
+    "SchoolSubject": "ОБЖ",
+    "Image":"https://user-images.githubusercontent.com/45273279/162628034-7d6a4676-7d54-44d8-b773-d02105537afb.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Юрченкова И.А",
+    "SchoolSubject": "Русский язык, Литература",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629834-050014f7-9fe7-48ba-8e88-21acd605420a.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  },{
+    "TacherName":"Юрченкова И.А",
+    "SchoolSubject": "Русский язык, Литература",
+    "Image":"https://user-images.githubusercontent.com/45273279/162629834-050014f7-9fe7-48ba-8e88-21acd605420a.jpg",
+    "GitLink":"https://github.com/KipFin/1-course-session"
+  }
+]

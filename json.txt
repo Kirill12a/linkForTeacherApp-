@@ -1,3 +1,5 @@
+
+https://api.npoint.io/6d0ff1875b7004c3e330
 [
   {
     "TacherName":"​Азовцева В.В",
@@ -262,7 +264,7 @@
     "Image":"https://user-images.githubusercontent.com/45273279/162629684-31523a72-f8f1-4f2f-bda9-f852c6aeafad.jpg",
     "GitLink":"https://github.com/KipFin/1-course-session"
   },{
-    "TacherName":"​Шведов В.А",
+    "TacherName":"Шведов В.А",
     "SchoolSubject": "История",
     "Image":"https://user-images.githubusercontent.com/45273279/162629724-c430f5e9-e7a7-4b71-828b-da1e923832a8.jpg",
     "GitLink":"https://github.com/KipFin/1-course-session"

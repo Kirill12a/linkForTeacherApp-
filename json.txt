@@ -276,10 +276,5 @@
     "SchoolSubject": "Русский язык, Литература",
     "Image":"https://user-images.githubusercontent.com/45273279/162629834-050014f7-9fe7-48ba-8e88-21acd605420a.jpg",
     "GitLink":"https://github.com/KipFin/1-course-session"
-  },{
-    "TeacherName":"Юрченкова И.А",
-    "SchoolSubject": "Русский язык, Литература",
-    "Image":"https://user-images.githubusercontent.com/45273279/162629834-050014f7-9fe7-48ba-8e88-21acd605420a.jpg",
-    "GitLink":"https://github.com/KipFin/1-course-session"
   }
 ]
